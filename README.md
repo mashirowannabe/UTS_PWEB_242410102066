@@ -13,6 +13,6 @@ Fitur utama meliputi:
 
 ## 🛠️ Teknologi
 
-* **Framework:** Laravel 11 (atau versi yang kamu gunakan)
-* **Frontend:** Bootstrap 5 (via CDN)
+* **Framework:** Laravel 11 
+* **Frontend:** Bootstrap 5 
 * **Bahasa:** PHP, HTML, CSS
